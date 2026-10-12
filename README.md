@@ -1,1 +1,1 @@
-# rag
+This is a RAG project which supports voice commands. To use it you must use make a file named .env and keep you api key there and connect with the api key and use it efficiently. This model doesn't hallicunate so it wrong/false or extra information will be provided. It may help you a lot in learning.
